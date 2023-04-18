@@ -1,5 +1,7 @@
 # Desafio-de-Padroes-de-Projetos-Java
+
 Configurações do Projeto
+
 Projeto: Maven
 
 Pacote: Jar
